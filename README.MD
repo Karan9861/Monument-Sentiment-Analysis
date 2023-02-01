@@ -10,7 +10,7 @@ The source of data collection is Google Maps reviews, from which a minimum of 10
 
 The data is scraped from Google Maps with the help of a customized coded scraper which extracts the information like the monument name, reviewer name, review time and rating along with the complete text review. The data collected is stored in csv format which is further used for analysis.
 
-Kindly download the datatsets from Kaggle.
+Kindly download the datatsets from Kaggle. The link is: https://www.kaggle.com/datasets/karanagrawal7/monument-sentiment-analysis-dataset
 
 - Final.csv: There are 123 famous monuments and cultural heritages in total from all across the world with 35+ places from India in the CSV.
 Some of the famous ones are as follows:
